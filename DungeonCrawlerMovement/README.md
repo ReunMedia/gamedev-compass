@@ -10,7 +10,7 @@
 In Godot 3.5, it's easy to create grid-based movement using tweens. This tutorial shows you how to make movement for a 3D dungeon crawler -style game.
 We are also releasing a free plugin for Godot 3.5 alongside this tutorial, which is used to make the level for the tutorial.
 
-Plugin featured in the tutorial: [LevelBlock plugin for Godot 3.5](https://github.com/Reun-Media/godot-levelblock)
+Plugin featured in the tutorial: [LevelBlock plugin for Godot 3.5](https://github.com/ReunMedia/godot-levelblock)
 
 Published on 2022-12-22.
 
